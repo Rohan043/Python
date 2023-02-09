@@ -1,5 +1,5 @@
 # Binary Search
-key=4
+key=4 #The No which want you have to enter
 arr=[1,2,3,4,5,6]
 l=len(arr)-1
 f=0
